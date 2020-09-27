@@ -9,9 +9,6 @@
       <p><b>电话：13191697625</b></p>
       <p><a href="/index-en.html">English Version</a></p>
     </td>
-    <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">
-    </td>
   </tr>
 </table>
 </div>
