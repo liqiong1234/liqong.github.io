@@ -7,7 +7,6 @@
       <p><b>石家庄铁道大学信息科学与技术学院</b></p>
       <p><b>邮箱：13191687625</b></p>
       <p><b>电话：13191697625</b></p>
-      <p><a href="/index-en.html">English Version</a></p>
     </td>
   </tr>
 </table>
